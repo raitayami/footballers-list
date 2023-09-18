@@ -21,9 +21,7 @@ struct GreatestFootballersList: View {
                         Text(f.name)
                     }
                 }
-
-                
-                
+      
             }
     }
     

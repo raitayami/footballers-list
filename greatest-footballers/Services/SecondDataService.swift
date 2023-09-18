@@ -1,14 +1,13 @@
 
+
 import Foundation
 
-
-class DataService{
-    
+class SecondDataService{
     
     static func getLocalData() -> [Footballer]{
         
-        let pathString = Bundle.main.path(forResource: "greatestFootballers", ofType: "json")
-        
+        let pathString = Bundle.main.path(forResource: "potentialGreatest", ofType: "json")
+
         guard pathString != nil else{
             return [Footballer]()
         }
@@ -17,8 +16,10 @@ class DataService{
         
         do{
             let data = try Data(contentsOf: url)
+            
             let decoder = JSONDecoder()
-            do{
+            
+            do {
                 let footballerData = try decoder.decode([Footballer].self, from: data)
                 
                 for f in footballerData{
@@ -30,14 +31,11 @@ class DataService{
             catch{
                 print(error)
             }
-
         }
         catch{
             print(error)
-
         }
-
         return [Footballer]()
-        
     }
+    
 }

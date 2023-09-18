@@ -8,8 +8,7 @@ class FootballerViewModel: ObservableObject{
     
     init(){
         
-//      let service = DataService()
-        self.greatestFootballers = DataService.getLocalData()
+        self.greatestFootballers = FirstDataService.getLocalData()
         
     }
 }

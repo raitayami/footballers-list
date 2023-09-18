@@ -14,18 +14,35 @@ struct Homepage: View {
                     NavigationLink {
                         GreatestFootballersList()
                     } label: {
+                        ZStack{
+                            Rectangle()
+                                .frame(width: .infinity, height: 40)
+                                .cornerRadius(15)
+                                .padding()
+                            
+                            Text("View the greatest footballers")
+                                .padding()
+                                .foregroundColor(.white)
+                        }
                         
-                        Text("View the greatest footballers")
-                            .padding()
+                        
                     }
+
                     
                     NavigationLink {
-                        ContentView()
+                        PotentialGreatest()
                     } label: {
                         
-                        Text("View the potential greatest footballers")
-                            .padding()
-
+                        ZStack{
+                            Rectangle()
+                                .frame(width: .infinity, height: 40)
+                                .cornerRadius(15)
+                                .padding()
+                            
+                            Text("View the potential greatest footballers")
+                                .padding()
+                                .foregroundColor(.white)
+                        }
                     }
                 }
                 

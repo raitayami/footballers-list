@@ -1,0 +1,115 @@
+
+[
+    {
+        "name": "Kylian Mbappe",
+        "image": "mbappe",
+        "position": "Forward",
+        "appearances" : 329,
+        "goals" : 251,
+        "assists" : 116,
+        "UCLgoals" : 40,
+        "UCLassist" : 3,
+        "worldCupGoals" : 12,
+        "worldCupAssist" : 3,
+        "trophies" : 15,
+        "majorIndividualAwards" :[
+            "10 League Top Goal Scorers",
+            "French footballer of the year"
+        ],
+        "majorTrophies" : [
+            "World Cup",
+            "6 French Champion",
+            "UEFA Nations League"
+        ]
+    },
+    {
+        "name": "Erling Haaland",
+        "image": "haaland",
+        "position": "Forward",
+        "appearances" : 243,
+        "goals" : 194,
+        "assists" : 46,
+        "UCLgoals" : 35,
+        "UCLassist" : 0,
+        "worldCupGoals" : 0,
+        "worldCupAssist" : 0,
+        "trophies" : 44,
+        "majorIndividualAwards" : [
+            "UEFA Best Player in the europe",
+            "2 UEFA Men's Player of the year",
+            "6 European golden boot"
+        ],
+        "majorTrophies" : [
+            "Champions League",
+            "5 League Footballer of the year",
+            "UEFA supercup winner"
+        ]
+    },
+    {
+        "name": "Vinicius Jr",
+        "image": "vinicius",
+        "position": "Forward",
+        "appearances" : 0,
+        "goals" : 0,
+        "assists" : 0,
+        "UCLgoals" : 14,
+        "UCLassist" : 0,
+        "worldCupGoals" : 15,
+        "worldCupAssist" : 0,
+        "trophies" : 16,
+        "majorIndividualAwards" : [
+            "u17 SA Champions"
+        ],
+        "majorTrophies" : [
+            "Champions League",
+            "2 FIFA club world cup winner",
+            "2 UEFA Supercup winner"
+        ]
+    },
+    {
+        "name": "Eduardo Camavinga",
+        "image": "carmavinga",
+        "position": "Anywhere",
+        "appearances" : 0,
+        "goals" : 0,
+        "assists" : 0,
+        "UCLgoals" : 0,
+        "UCLassist" : 0,
+        "worldCupGoals" : 0,
+        "worldCupAssist" : 0,
+        "trophies" : 0,
+        "majorIndividualAwards" : [
+            "3 Ballon d'Or",
+            "7 Dutch Cup/League top goal scorer",
+            "World cup golden ball"
+        ],
+        "majorTrophies" : [
+            "3 Champions league",
+            "UEFA Supercup Winner",
+            "Spanish Champion"
+        ]
+    },
+    {
+        "name": "Jude Bellingham",
+        "image": "bellingham",
+        "position": "Midfield",
+        "appearances" : 803,
+        "goals" : 125,
+        "assists" : 70,
+        "UCLgoals" : 0,
+        "UCLassist" : 0,
+        "worldCupGoals" : 0,
+        "worldCupAssist" : 0,
+        "trophies" : 0,
+        "majorIndividualAwards" : [
+            "Ballon d'Or",
+            "UEFA Men's Player of the year",
+            "3 FIFAS best player of the year"
+        ],
+        "majorTrophies" : [
+            "World Cup",
+            "Champions league",
+            "2 UEFA supercup winner"
+        ]
+    }
+]
