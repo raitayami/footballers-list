@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "image": "cristiano",
+        "position": "Forward",
+        "appearances" : 1100,
+        "goals" : 850,
+        "assists" : 250,
+        "UCLgoals" : 140,
+        "UCLassist" : 42,
+        "worldCupGoals" : 8,
+        "worldCupAssist" : 2,
+        "trophies" : 34,
+        "majorIndividualAwards" :[
+            "5 Ballon d'Or",
+            "3 UEFA Men's Player of the year",
+            "4 european golden boot"
+        ],
+        "majorTrophies" : [
+            "5 Champions League Title",
+            "Euros 2016",
+            "3 Premier Leagues"
+        ]
+    },
+    {
+        "name": "Lionel Messi",
+        "image": "messi",
+        "position": "Forward",
+        "appearances" : 1100,
+        "goals" : 800,
+        "assists" : 350,
+        "UCLgoals" : 129,
+        "UCLassist" : 40,
+        "worldCupGoals" : 13,
+        "worldCupAssist" : 8,
+        "trophies" : 44,
+        "majorIndividualAwards" : [
+            "7 Ballon d'Or",
+            "2 UEFA Men's Player of the year",
+            "6 European golden boot"
+        ],
+        "majorTrophies" : [
+            "World Cup",
+            "Copa America",
+            "4 Champions League"
+        ]
+    },
+    {
+        "name": "Ronaldo Nazario",
+        "image": "ronaldo",
+        "position": "Forward",
+        "appearances" : 616,
+        "goals" : 414,
+        "assists" : 0,
+        "UCLgoals" : 14,
+        "UCLassist" : 0,
+        "worldCupGoals" : 15,
+        "worldCupAssist" : 0,
+        "trophies" : 16,
+        "majorIndividualAwards" : [
+            "2 Ballon d'Or",
+            "3 UEFA Men's Player of the year",
+            "1 european golden boot"
+        ],
+        "majorTrophies" : [
+            "2 World Cup",
+            "2 Copa America",
+            "2 La Liga"
+        ]
+    },
+    {
+        "name": "Johan Cryuff",
+        "image": "cryuff",
+        "position": "Forward",
+        "appearances" : 761,
+        "goals" : 433,
+        "assists" : 0,
+        "UCLgoals" : 0,
+        "UCLassist" : 0,
+        "worldCupGoals" : 0,
+        "worldCupAssist" : 0,
+        "trophies" : 0,
+        "majorIndividualAwards" : [
+            "3 Ballon d'Or",
+            "7 Dutch Cup/League top goal scorer",
+            "World cup golden ball"
+        ],
+        "majorTrophies" : [
+            "3 Champions league",
+            "UEFA Supercup Winner",
+            "Spanish Champion"
+        ]
+    },
+    {
+        "name": "Zinedine Zidane",
+        "image": "zidane",
+        "position": "Midfield",
+        "appearances" : 803,
+        "goals" : 125,
+        "assists" : 70,
+        "UCLgoals" : 0,
+        "UCLassist" : 0,
+        "worldCupGoals" : 0,
+        "worldCupAssist" : 0,
+        "trophies" : 0,
+        "majorIndividualAwards" : [
+            "Ballon d'Or",
+            "UEFA Men's Player of the year",
+            "3 FIFAS best player of the year"
+        ],
+        "majorTrophies" : [
+            "World Cup",
+            "Champions league",
+            "2 UEFA supercup winner"
+        ]
+    }
+]
